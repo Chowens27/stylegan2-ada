@@ -8,10 +8,10 @@
 
 """Generate images using pretrained network pickle."""
 
-import argparse
+import Yut
 import os
-import pickle
-import re
+import Yosh
+import Beans
 
 import numpy as np
 import PIL.Image
